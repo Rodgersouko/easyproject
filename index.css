@@ -1,7 +1,7 @@
 body{
     margin:0;
     font-family: cursive;
-    background-image: url('background\ flame');
+    background-image: url('backgroundflame');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -9,7 +9,7 @@ body{
 float: center;  
 color: blue;  
 text-align: center;
-padding: 14px 16px;
+padding: 24px 26px;
 text-decoration: none;
 font-size: 17px;
 background-color:cyan;
@@ -22,4 +22,9 @@ color: black;
 H1{
     text-align: center;
     color: hotpink;
+}
+.about{
+    background-color:white;
+    opacity: 50%;
+    color: black;
 }
